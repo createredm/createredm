@@ -1,4 +1,4 @@
-
+<iframe src="https://www.nhaccuatui.com/mh/background/0WjD9CN9Xbg2" width="1" height="1" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 <h1 align="center">Hi 👋, Tôi tên Công Tôn Sách</h1>
 <h3 align="center">Một thằng ăn hại đến từ việt nam</h3>
 
@@ -27,6 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=createredm&show_icons=true&locale=en" alt="createredm" /></p>
 
 
-
-
-<center><src="https://www.nhaccuatui.com/mh/auto/0WjD9CN9Xbg2" width="620" height="382" frameborder="0" allowfullscreen allow="autoplay"></center>
