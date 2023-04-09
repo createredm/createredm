@@ -1,4 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/knfLP-oj6CI?controls=0&amp;start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://youtube.com/embed/pDOD7gAGM6g?showinfo=0&autoplay=1&controls=0"></iframe>
 
 <h1 align="center">Hi 👋, Tôi tên Công Tôn Sách</h1>
 <h3 align="center">Một thằng ăn hại đến từ việt nam</h3>
