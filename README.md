@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15300
-Fork on GitHub
-4163
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, Tôi tên Công Tôn Sách</h1>
 <h3 align="center">Một thằng ăn hại đến từ việt nam</h3>
 
